@@ -1,3 +1,6 @@
+The objective of this code is to distinguish between customers who accepted a driving coupon versus those that did not for various coupon types.
+The code in the notebook has been used to analyze two coupon types - Bar and $20-$50 restaurant category.
+
 Link to notebook: https://github.com/navinbilwar/Activity5.1/blob/main/prompt.ipynb
 
 <b>Analysis of Bar coupon:</b>
